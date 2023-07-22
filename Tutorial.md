@@ -9,7 +9,7 @@ Git will always has latest release at https://git-scm.com/downloads. Wondering h
 ## Step 2: Clone this repository
 Simply open the terminal, type
 
-```git clone https://github.com/pikp12/emhocgioitienganh7audiorepo```
+```git clone https://github.com/pikp12/emhocgioitienganh7audio```
 
 And press enter, it will download it for you.
 # Option 2: That Button
